@@ -1,0 +1,9 @@
+[package]
+name = "symbol-table"
+version = "0.1.0"
+description = "A Rust library for Symbol Table"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/casey-digennaro/symbol-table"
+edition = "2021"
+
+[dependencies]
